@@ -1,7 +1,7 @@
 
 ---
 
-# **React + TypeScript + Vite - Portfolio Starter**
+# **React + TypeScript + Vite - WJ Portfolio **
 
 This is a **modern, fast, and minimal** portfolio starter template built with **React, TypeScript, and Vite**. It comes with **ESLint**, **pre-configured styling**, and a structured project layout.
 
