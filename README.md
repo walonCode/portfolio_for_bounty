@@ -18,8 +18,8 @@ This is a **modern, fast, and minimal** portfolio starter template built with **
 
 ### **1️⃣ Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/walonCode/portfolio_for_bounty.git
+cd portfolio_for_bounty
 ```
 
 ### **2️⃣ Install Dependencies**
